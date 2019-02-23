@@ -1,19 +1,19 @@
 {
-  "name": "glutnix-card",
+  "name": "glutnix",
   "version": "0.0.1",
   "description": "Personal npm card for Brett Taylor (@glutnix)",
   "main": "dist/card.js",
   "unpkg": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/glutnix/glutnix-card.git"
+    "url": "https://github.com/glutnix/glutnix.git"
   },
   "scripts": {
     "prepare": "node src/htmlify",
     "prepublishOnly": "rm -rf dist && webpack"
   },
   "bin": {
-    "glutnix-card": "bin/index.js"
+    "glutnix": "bin/index.js"
   },
   "files": [
     "bin",
