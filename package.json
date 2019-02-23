@@ -1,6 +1,6 @@
 {
   "name": "glutnix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal npm card for Brett Taylor (@glutnix)",
   "main": "dist/card.js",
   "unpkg": "index.html",
