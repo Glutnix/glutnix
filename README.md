@@ -5,7 +5,7 @@
 Via npx:
 
 ```bash
-npx glutnix-card
+npx glutnix
 ```
 
 # Other
