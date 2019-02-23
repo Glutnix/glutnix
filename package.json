@@ -50,6 +50,7 @@
       "handle": "glutnix",
       "twitter": "glutnix",
       "npm": "glutnix",
+      "reddit": "glutnix",
       "github": "glutnix",
       "linkedin": "glutnix",
       "web": "https://inner.geek.nz",
@@ -76,6 +77,11 @@
       {
         "label": "GitHub",
         "text": "https://github.com/<green>{{github}}</>",
+        "when": "{{github}}"
+      },
+      {
+        "label": "Reddit",
+        "text": "https://reddit.com/user/<red>{{reddit}}</>",
         "when": "{{github}}"
       },
       {
